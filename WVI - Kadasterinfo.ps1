@@ -8,6 +8,7 @@
         05/10/2021 - Added CAPAKEY calculation
         07/10/2021 - Changed value "Oppervlakte belast"
         15/10/2021 - Change CAPAKEY: "/"" is replaced by "-" (and not by "_")
+    Note: This script is provided ‘AS IS’. No warranty is provided either expresses or implied.
     ************************************#>
 
 <#
